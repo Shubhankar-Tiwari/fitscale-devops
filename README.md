@@ -4,7 +4,9 @@
 <img width="1482" height="820" alt="image" src="https://github.com/user-attachments/assets/827b3ad5-837d-4cbd-9792-462fc695557f" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d82ced39-9cbf-4eb0-91b8-5fa46e707b4b" />
 <img width="1910" height="916" alt="image" src="https://github.com/user-attachments/assets/85882567-a3f8-4c25-a9a7-cdd232d4a6fa" />
-
+Link - 
+Frontend - https://fitscale-devops.vercel.app/
+Backend - https://fitscale-devops.onrender.com
 ## 👨‍💻 Team Members| Name | Role ||------|------|| **Shubhankar Tiwari** | DevOps Engineer / Backend || **Arjun Setia** | CI/CD & Git Workflow |---## 📌 Project OverviewFitScale DevOps Project is a **production-style backend application** built using **Node.js & Express**, containerized with **Docker**, and automated with a **CI pipeline using GitHub Actions**.This project simulates a **real-world DevOps workflow**, including:- Code collaboration- Branching strategy- Containerization- Continuous Integration (CI)---## 🧱 Architecture Diagram
 Developer → GitHub (dev branch)
 ↓
